@@ -1,0 +1,20 @@
+git_1: 1er paso "working direstory".
+	se creo la carpeta y se inicio git.Y agregue un HTML, (que es el estado del trabajo actual, preparamos las cajas) 
+	sencillo, con un <h1></h1>, <img>, <p></p>.
+
+git_2:
+	2do paso "git add ."se agregan las cajas al Stating Area, y para verificar si funciono, utilice el git status.
+
+git_3:
+	3er paso "git commit -m", sube nuestros archivos al repositorio que se ha creado.
+
+git_4:
+	Se creo una rama.
+
+git_5:
+	Se agrego al index una imagen y se modificaron porque estaban mal ruteadas.
+ 	Luego se agrego un parrafo mas, el cual fue commiteado tambien. Osea que hay 3 estadios.
+	Se vuelve hacia el commit anterior
+
+git_6 
+	se mergea las nuevas modificaciones con master.
